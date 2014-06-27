@@ -1,5 +1,5 @@
 {
-  "name": "test-polymer",
+  "name": "PolymerMobileCodelab",
   "description": "",
   "homepage": "",
   "keywords": [
@@ -8,8 +8,8 @@
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
-    "core-elements": "Polymer/core-elements#master"
-    "paper-elements": "Polymer/paper-elements"
+    "core-elements": "Polymer/core-elements#master",
+    "paper-elements": "Polymer/paper-elements",
     "font-roboto": "Polymer/font-roboto"
   }
 }
